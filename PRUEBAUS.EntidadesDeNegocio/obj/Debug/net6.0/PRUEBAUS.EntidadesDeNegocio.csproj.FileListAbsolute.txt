@@ -1,0 +1,12 @@
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\bin\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.deps.json
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\bin\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.dll
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\bin\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.pdb
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.dll
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\refint\PRUEBAUS.EntidadesDeNegocio.dll
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.pdb
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.EntidadesDeNegocio\obj\Debug\net6.0\ref\PRUEBAUS.EntidadesDeNegocio.dll

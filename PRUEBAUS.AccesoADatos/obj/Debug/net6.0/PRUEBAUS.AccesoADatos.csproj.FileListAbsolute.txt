@@ -1,0 +1,15 @@
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.AssemblyInfo.cs
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\bin\Debug\net6.0\PRUEBAUS.AccesoADatos.deps.json
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\bin\Debug\net6.0\PRUEBAUS.AccesoADatos.dll
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\bin\Debug\net6.0\PRUEBAUS.AccesoADatos.pdb
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\bin\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.dll
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\bin\Debug\net6.0\PRUEBAUS.EntidadesDeNegocio.pdb
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.csproj.CopyComplete
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.dll
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\refint\PRUEBAUS.AccesoADatos.dll
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\PRUEBAUS.AccesoADatos.pdb
+C:\Users\Henry\OneDrive\Escritorio\webAPIS\PRUEBAUS\PRUEBAUS.AccesoADatos\obj\Debug\net6.0\ref\PRUEBAUS.AccesoADatos.dll

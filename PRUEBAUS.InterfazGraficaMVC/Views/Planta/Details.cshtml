@@ -1,0 +1,51 @@
+﻿@model PRUEBAUS.EntidadesDeNegocio.Planta
+
+@{
+    ViewData["Title"] = "Detalles";
+}
+<h1>Detalles de la planta</h1>
+
+<div>
+
+    <hr />
+
+    <dl class="row">
+        
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CategoriaId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Categoria.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ImagenUrl)            
+        </dt>       
+        
+        <dd class = "col-sm-10">
+            <img src="@Html.DisplayFor(model => model.ImagenUrl)" width="200" />
+                        
+        </dd>     
+        
+    </dl>
+</div>
+
+<br />
+
+<div>
+    @Html.ActionLink("Modificar", "Edit", new { id = Model.Id }, new { @class="btn btn-primary"} ) &nbsp; &nbsp;
+                 <a asp-action="Index" class="btn btn-dark">Cancelar</a>
+</div>
+
